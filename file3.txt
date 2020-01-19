@@ -1,3 +1,7 @@
 hi
+<<<<<<< HEAD
 hello siri
+=======
+hello
+>>>>>>> e3b0c39...  edited file in blr branch
 
