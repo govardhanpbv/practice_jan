@@ -1,0 +1,7 @@
+HI this is my git practice
+<<<<<<< HEAD
+hello
+how are you
+
+=======
+>>>>>>> parent of c05e472...  first file modified
